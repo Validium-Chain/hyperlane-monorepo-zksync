@@ -1,5 +1,15 @@
 # @hyperlane-xyz/helloworld
 
+## 8.0.0
+
+### Patch Changes
+
+- e21f29e: Bump registry version to v6.3.0.
+- Updated dependencies [e21f29e]
+- Updated dependencies [e21f29e]
+  - @hyperlane-xyz/sdk@8.0.0
+  - @hyperlane-xyz/core@5.8.4
+
 ## 7.3.0
 
 ### Patch Changes

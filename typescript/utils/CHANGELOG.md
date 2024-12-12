@@ -1,5 +1,11 @@
 # @hyperlane-xyz/utils
 
+## 8.0.0
+
+### Minor Changes
+
+- e21f29e: Added `isPrivateKeyEvm` function for validating EVM private keys
+
 ## 7.3.0
 
 ## 7.2.0

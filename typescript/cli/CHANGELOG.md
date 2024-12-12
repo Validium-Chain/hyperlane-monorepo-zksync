@@ -1,5 +1,22 @@
 # @hyperlane-xyz/cli
 
+## 8.0.0
+
+### Minor Changes
+
+- e21f29e: Add support for deploying Hooks using a HookConfig within a WarpConfig
+- e21f29e: Added strategy management CLI commands and MultiProtocolSigner implementation for flexible cross-chain signer configuration and management
+
+### Patch Changes
+
+- e21f29e: Bump registry version to v6.3.0.
+- e21f29e: Added ZKSync signer support using zksync-ethers package
+- Updated dependencies [e21f29e]
+- Updated dependencies [e21f29e]
+- Updated dependencies [e21f29e]
+  - @hyperlane-xyz/sdk@8.0.0
+  - @hyperlane-xyz/utils@8.0.0
+
 ## 7.3.0
 
 ### Minor Changes
