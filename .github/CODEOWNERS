@@ -1,0 +1,22 @@
+# File extension owners
+
+*.sol @yorhodes @aroralanuk @ltyu
+*.ts @yorhodes @jmrossy
+*.rs @tkporter @daniel-savu @ameten
+
+# Package owners
+
+## Contracts
+solidity/ @yorhodes @tkporter @aroralanuk @ltyu
+
+## Agents
+rust/ @tkporter @daniel-savu
+
+## SDK
+typescript/sdk @yorhodes @jmrossy @ltyu @paulbalaji
+
+## CLI
+typescript/cli @jmrossy @yorhodes @ltyu
+
+## Infra
+typescript/infra @tkporter @paulbalaji @Mo-Hussain

@@ -1,0 +1,28 @@
+node_modules/
+cache/
+artifacts/
+types/
+dist/
+coverage/
+coverage.json
+storage/
+.env
+*lcov.info
+# Foundry
+out
+forge-cache
+docs
+flattened/
+buildArtifact.json
+fixtures/
+
+
+# zksync artifacts
+artifacts-zk
+cache-zk
+
+core-utils/zksync/artifacts/output
+
+.zksolc-libraries-cache/
+typechain-types/
+typechain/
